@@ -1,0 +1,22 @@
+body{
+    background-image: url(./mink-mingle-g0Qdolm3K14-unsplash.jpg);
+    background-size:cover
+}
+header{
+    text-align: center;
+}
+ul{
+    background-color:skyblue;
+    text-align: center;    
+}
+li{
+    display: inline-block;
+    margin: 20px;
+    margin-top: -20px;
+    padding-top:45px;
+    font-size: x-large;
+}
+li a{
+    color: rgb(2,94,76);
+    
+}

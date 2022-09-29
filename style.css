@@ -1,7 +1,7 @@
 body{
     background-image: url(./mink-mingle-g0Qdolm3K14-unsplash.jpg);
     background-size:cover;
-   
+    overflow-x: hidden;
     
 }
 header{
@@ -23,7 +23,6 @@ li a{
     
 }
 footer{
-     position: fixed; bottom: 0; width: 100%; height: 60px;
      background: #6cf; 
      text-align: center;
     }

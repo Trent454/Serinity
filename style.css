@@ -6,6 +6,7 @@ body{
 }
 header{
     text-align: center;
+    
 }
 ul{
     background-color:skyblue;
@@ -17,10 +18,26 @@ li{
     margin-top: -20px;
     padding-top:45px;
     font-size: x-large;
+    
 }
 li a{
     color: rgb(2,94,76);
     
+}
+.paragraph{
+    background-color:whitesmoke;
+    
+}
+.row{
+    margin-top: 500px;
+}
+.aside{
+    margin-left:auto;
+    background-color: black;
+    width: 400px;
+    height: 500px;
+    font-weight: bolder;
+    color: white;
 }
 footer{
      background: #6cf; 

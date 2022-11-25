@@ -3,6 +3,8 @@
     right: 0;
     bottom: 0;
     z-index:-1;
+}
+header .i{
     
 }
 @media(min-aspect-ratio:16/9){
